@@ -1,5 +1,5 @@
 {
-  "name": "first-app",
+  "name": "using-pipes-to-transform-output",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
