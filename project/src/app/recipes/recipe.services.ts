@@ -6,7 +6,7 @@ import { Ingredient } from "../shared/ingredient.model";
 import { ShoppingListService } from "../shopping-list/shopping-list.service";
 
 @Injectable()
-export class RecipeService {
+export class RecipeServices {
   recipesChanged = new Subject<Recipe[]>();
 
   // private recipes: Recipe[] = [
